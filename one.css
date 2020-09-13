@@ -61,7 +61,6 @@ h4{
     left: 30%;
     position: absolute;
     font-size: 50px;
-    text-decoration: underline;
 }
 #history{
     max-width:80%;
@@ -82,6 +81,7 @@ h4{
         width: 100%;
         top: 90vh;
         left: 0;
+        background-color: lightgray;
     }
     h4{
         left: 25%;
